@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "testproject",
+"dataUrl": "testss.data.unityweb",
+"wasmCodeUrl": "testss.wasm.code.unityweb",
+"wasmFrameworkUrl": "testss.wasm.framework.unityweb",
+"TOTAL_MEMORY": 33554432,
+"graphicsAPI": ["WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
